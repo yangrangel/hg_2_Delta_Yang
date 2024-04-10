@@ -1,25 +1,26 @@
-PULL_REQUEST_TEMPLATE
-Tipo de usuario
+## PULL_REQUEST_TEMPLATE
 
-[ ] Alfa
-[ ] Bravo
-[ ] Charlie
-[x] Delta
-[ ] Echo
+#Tipo de usuario
 
- Tecnología
+- [ ] Alfa
+- [ ] Bravo
+- [ ] Charlie
+- [x] Delta
+- [ ] Echo
 
-[ ] HTML
-[ ] Json
-[ ] Archivo plano (.txt)
-[ ] Javascript
-[x] Markdown / .md
+ # Tecnología
 
- Seleccione el tipo de actividad
+- [ ] HTML
+- [ ] Json
+- [ ] Archivo plano (.txt)
+- [ ] Javascript
+- [x] Markdown / .md
 
-[x] Feature
-[ ] Changes
-[ ] Hotfix
-[ ] Refactor
-[ ] Performance
-[ ] Testing
+ # Seleccione el tipo de actividad
+
+- [x] Feature
+- [ ] Changes
+- [ ] Hotfix
+- [ ] Refactor
+- [ ] Performance
+- [ ] Testing
