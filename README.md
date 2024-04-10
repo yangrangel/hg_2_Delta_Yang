@@ -1,9 +1,13 @@
-## hg_2_Delta_Yang
+# hg_2_Delta_Yang
 
-# Tipo de usuario:
+# Tipo de usuario
 
 - [] Alfa
-- [] Bravo
-- [] Charlie
-- [X] Delta
-      
+- []Bravo
+- []Charlie
+- []Delta
+- [x]Echo
+
+  # Lugar
+
+  Caracas
