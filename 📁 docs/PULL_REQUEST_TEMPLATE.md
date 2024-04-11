@@ -1,11 +1,9 @@
 ## PULL_REQUEST_TEMPLATE
 
-# Tipo de usuario
-
 - [ ] Alfa
 - [ ] Bravo
 - [ ] Charlie
-- [x] Delta
+- [ ] Delta
 - [ ] Echo
 
  # Tecnología
@@ -14,11 +12,11 @@
 - [ ] Json
 - [ ] Archivo plano (.txt)
 - [ ] Javascript
-- [x] Markdown / .md
+- [ ] Markdown / .md
 
  # Seleccione el tipo de actividad
 
-- [x] Feature
+- [ ] Feature
 - [ ] Changes
 - [ ] Hotfix
 - [ ] Refactor
